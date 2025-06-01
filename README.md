@@ -1,1 +1,1 @@
-# (bgates)[DembskyTechnologies.github.io/bgates/]
+# [bgates](DembskyTechnologies.github.io/bgates)
